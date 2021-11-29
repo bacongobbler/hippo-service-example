@@ -4,7 +4,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # Artifacts
-Hippo/hippo.db*
+*.db*
 
 # User-specific files
 *.rsuser
@@ -449,7 +449,3 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-
-Hippo/Hippo.xml
-bindlecache
-bindleserver/data
